@@ -1,0 +1,59 @@
+Goal:
+Build a weather application
+
+1.Accept a city name
+2.Fetch real time weather data
+From weather application
+3.Display temperature,humidity,wind speed,weather condition
+4.send the weather information to groq
+explain in human friendly manner
+
+problem understanding:
+1.problem statement
+2.Target users
+3.Inputs
+4.Outputs
+5.Functional Requirements
+6.Non-Functional Requirements
+7.External api's required
+8.Possible challenges
+9.Assumptions
+
+Features:
+city search
+current temperature
+weather condition
+
+Technology requirements:
+1.python (flask)
+2.groq --llm
+3.weather api
+4.html,css
+
+Understanding the system architecture
+    for example;
+       student
+          Enter city
+        Flask Web UI
+          
+
+TASK Decomposition
+
+sub parts
+
+project structure -->Define
+
+SDLC
+requirements gather\
+    |
+Analyze
+    |
+Develop   
+
+
+
+weather apikey:ffa46df7b9429bf6eaf906a797fea62e
+
+    
+
+
